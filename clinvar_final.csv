@@ -1,0 +1,1121 @@
+,Gene,Variant type,Classification,Molecular consequence,GRCh38 Location,Variation ID,VCV accession,Pathogenicity,Mutation type
+27,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,"stop lost, inframe_deletion",11:5225466,862436,VCV000862436,1,Protein-truncating / splice-disrupting
+28,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,splice acceptor variant,11:5225466,660167,VCV000660167,1,Protein-truncating / splice-disrupting
+29,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,3 prime UTR variant,11:5225466,439130,VCV000439130,1,UTR
+35,HBB|LOC107133510|LOC110006319,Deletion,G: Likely pathogenic,3 prime UTR variant,11:5225482,869259,VCV000869259,1,UTR
+36,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,3 prime UTR variant,11:5225482,15474,VCV000015474,1,UTR
+38,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic/Likely pathogenic,3 prime UTR variant,11:5225484,15506,VCV000015506,1,UTR
+39,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225485,15473,VCV000015473,1,UTR
+41,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,3 prime UTR variant,11:5225486,15476,VCV000015476,1,UTR
+42,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic/Likely pathogenic,3 prime UTR variant,11:5225487,632843,VCV000632843,1,UTR
+43,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225487,15488,VCV000015488,1,UTR
+44,HBB|LOC107133510|LOC110006319,Insertion,G: Pathogenic,3 prime UTR variant,11:5225487,15475,VCV000015475,1,UTR
+45,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225488,36332,VCV000036332,1,UTR
+46,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225488,15616,VCV000015616,1,UTR
+47,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225490,869258,VCV000869258,1,UTR
+48,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,3 prime UTR variant,11:5225493,869261,VCV000869261,1,UTR
+74,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,3 prime UTR variant,11:5225564,1127267,VCV001127267,0,UTR
+76,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,3 prime UTR variant,11:5225566,869260,VCV000869260,1,UTR
+81,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,3 prime UTR variant,11:5225592,393707,VCV000393707,1,UTR
+87,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic/Likely pathogenic,"stop lost, inframe_deletion",11:5225598,988273,VCV000988273,1,Protein-truncating / splice-disrupting
+91,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225602,15395,VCV000015395,1,Missense / in-frame coding
+97,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225605,15322,VCV000015322,1,Missense / in-frame coding
+99,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225606,633256,VCV000633256,1,Missense / in-frame coding
+100,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Pathogenic,missense variant,11:5225606,15112,VCV000015112,1,Missense / in-frame coding
+101,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225607,1104204,VCV001104204,0,Synonymous
+103,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225607,15096,VCV000015096,1,Missense / in-frame coding
+110,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,synonymous variant,11:5225610,36329,VCV000036329,0,Synonymous
+111,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225610,15250,VCV000015250,1,Missense / in-frame coding
+112,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225611,15365,VCV000015365,1,Missense / in-frame coding
+114,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5225611,15090,VCV000015090,1,Missense / in-frame coding
+115,LOC107133510|LOC110006319|HBB,Deletion,G: Pathogenic,frameshift variant,11:5225612,869318,VCV000869318,1,Protein-truncating / splice-disrupting
+116,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,missense variant,11:5225612,15565,VCV000015565,0,Missense / in-frame coding
+122,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225616,1121500,VCV001121500,0,Synonymous
+127,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225620,15545,VCV000015545,1,Missense / in-frame coding
+131,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,missense variant,11:5225622,15198,VCV000015198,0,Missense / in-frame coding
+144,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225634,1999798,VCV001999798,0,Synonymous
+149,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,frameshift variant,11:5225638,1189030,VCV001189030,1,Protein-truncating / splice-disrupting
+151,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225638,15290,VCV000015290,1,Missense / in-frame coding
+152,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5225640,762836,VCV000762836,0,Synonymous
+154,HBB|LOC107133510|LOC110006319,Deletion,G: Likely pathogenic,frameshift variant,11:5225641,1705956,VCV001705956,1,Protein-truncating / splice-disrupting
+160,HBB|LOC107133510|LOC110006319,Deletion,G: Likely pathogenic,frameshift variant,11:5225645,928758,VCV000928758,1,Protein-truncating / splice-disrupting
+161,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,nonsense,11:5225645,869314,VCV000869314,1,Protein-truncating / splice-disrupting
+162,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,missense variant,11:5225645,15233,VCV000015233,0,Missense / in-frame coding
+164,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,frameshift variant,11:5225646,1459872,VCV001459872,1,Protein-truncating / splice-disrupting
+168,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5225647,15348,VCV000015348,1,Missense / in-frame coding
+169,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,nonsense,11:5225648,869311,VCV000869311,1,Protein-truncating / splice-disrupting
+172,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Pathogenic,nonsense,11:5225649,801192,VCV000801192,1,Protein-truncating / splice-disrupting
+182,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225655,991115,VCV000991115,0,Synonymous
+187,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,inframe_indel,11:5225657,15410,VCV000015410,1,Missense / in-frame coding
+190,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225659,15409,VCV000015409,1,Missense / in-frame coding
+191,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,nonsense,11:5225660,1705074,VCV001705074,1,Protein-truncating / splice-disrupting
+194,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225661,1142046,VCV001142046,0,Synonymous
+198,LOC110006319|HBB|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5225663,993110,VCV000993110,1,Protein-truncating / splice-disrupting
+200,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,frameshift variant,11:5225664,869285,VCV000869285,1,Protein-truncating / splice-disrupting
+201,LOC107133510|LOC110006319|HBB,Deletion,G: Pathogenic,frameshift variant,11:5225664,495998,VCV000495998,1,Protein-truncating / splice-disrupting
+202,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225664,439158,VCV000439158,0,Synonymous
+207,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,missense variant,11:5225669,995800,VCV000995800,0,Missense / in-frame coding
+209,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225670,2501083,VCV002501083,0,Synonymous
+210,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225670,1321374,VCV001321374,0,Synonymous
+211,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225670,1301331,VCV001301331,0,Synonymous
+223,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,nonsense,11:5225678,15404,VCV000015404,1,Protein-truncating / splice-disrupting
+224,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5225678,15292,VCV000015292,1,Missense / in-frame coding
+225,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5225678,15152,VCV000015152,1,Missense / in-frame coding
+226,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225679,1120940,VCV001120940,0,Synonymous
+227,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,missense variant,11:5225679,15329,VCV000015329,0,Missense / in-frame coding
+236,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5225685,2045808,VCV002045808,0,Synonymous
+239,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225688,2844469,VCV002844469,0,Synonymous
+240,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,frameshift variant,11:5225688,869283,VCV000869283,1,Protein-truncating / splice-disrupting
+242,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225691,917608,VCV000917608,0,Synonymous
+245,LOC107133510|HBB|LOC110006319,Insertion,G: Pathogenic,frameshift variant,11:5225692,869282,VCV000869282,1,Protein-truncating / splice-disrupting
+248,HBB|LOC107133510|LOC110006319,Indel,G: Likely pathogenic,frameshift variant,11:5225693,3769274,VCV003769274,1,Protein-truncating / splice-disrupting
+250,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,missense variant,11:5225693,15582,VCV000015582,0,Missense / in-frame coding
+251,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225694,2752834,VCV002752834,0,Synonymous
+253,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225695,15526,VCV000015526,1,Missense / in-frame coding
+254,LOC110006319|HBB|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5225696,4531951,VCV004531951,1,Protein-truncating / splice-disrupting
+256,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225696,15257,VCV000015257,1,Missense / in-frame coding
+257,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225697,4753219,VCV004753219,0,Synonymous
+258,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5225698,15513,VCV000015513,1,Missense / in-frame coding
+259,HBB|LOC107133510|LOC110006319,Indel,G: Pathogenic,frameshift variant,11:5225698,15425,VCV000015425,1,Protein-truncating / splice-disrupting
+263,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5225699,15486,VCV000015486,1,Missense / in-frame coding
+265,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,frameshift variant,11:5225702,15600,VCV000015600,1,Protein-truncating / splice-disrupting
+266,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225703,2873194,VCV002873194,0,Synonymous
+267,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,nonsense,11:5225703,869280,VCV000869280,1,Protein-truncating / splice-disrupting
+272,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225706,1552953,VCV001552953,0,Synonymous
+278,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225710,15352,VCV000015352,1,Missense / in-frame coding
+279,HBB|LOC107133510|LOC110006319,Deletion,G: Likely pathogenic,frameshift variant,11:5225711,4539279,VCV004539279,1,Protein-truncating / splice-disrupting
+280,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5225711,1997274,VCV001997274,0,Synonymous
+282,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5225712,1161533,VCV001161533,0,Synonymous
+284,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225714,15342,VCV000015342,1,Missense / in-frame coding
+285,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225714,15230,VCV000015230,1,Missense / in-frame coding
+286,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5225715,4847669,VCV004847669,1,Missense / in-frame coding
+287,HBB|LOC107133510|LOC110006319,Deletion,G: Likely pathogenic,frameshift variant,11:5225715,4818703,VCV004818703,1,Protein-truncating / splice-disrupting
+288,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5225715,3336287,VCV003336287,1,Missense / in-frame coding
+289,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5225715,495997,VCV000495997,0,Synonymous
+296,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5225719,2735520,VCV002735520,1,Missense / in-frame coding
+300,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,missense variant,11:5225722,15378,VCV000015378,1,Missense / in-frame coding
+301,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5225722,15356,VCV000015356,1,Missense / in-frame coding
+304,LOC107133510|LOC110006319|HBB,Deletion,G: Pathogenic,splice acceptor variant,11:5225727,869234,VCV000869234,1,Protein-truncating / splice-disrupting
+305,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,splice acceptor variant,11:5225727,552712,VCV000552712,1,Protein-truncating / splice-disrupting
+306,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,splice acceptor variant,11:5225727,38671,VCV000038671,1,Protein-truncating / splice-disrupting
+307,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5225727,15512,VCV000015512,1,Protein-truncating / splice-disrupting
+308,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5225728,21191,VCV000021191,1,Protein-truncating / splice-disrupting
+309,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5225728,21190,VCV000021190,1,Protein-truncating / splice-disrupting
+311,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,intron variant,11:5225729,619687,VCV000619687,1,Intron
+312,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Pathogenic/Likely pathogenic,intron variant,11:5225729,15451,VCV000015451,1,Intron
+313,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225730,4798543,VCV004798543,0,Intron
+314,HBB|LOC107133510|LOC110006319,Indel,G: Pathogenic,intron variant,11:5225733,4848400,VCV004848400,1,Intron
+319,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225734,15453,VCV000015453,0,Intron
+320,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225735,2789444,VCV002789444,0,Intron
+321,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225735,1583301,VCV001583301,0,Intron
+322,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225736,1117784,VCV001117784,0,Intron
+323,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225737,1121225,VCV001121225,0,Intron
+325,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225739,2747182,VCV002747182,0,Intron
+326,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225740,2849566,VCV002849566,0,Intron
+327,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,intron variant,11:5225740,36313,VCV000036313,1,Intron
+328,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225741,1101246,VCV001101246,0,Intron
+331,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225750,2826637,VCV002826637,0,Intron
+332,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225750,2742971,VCV002742971,0,Intron
+333,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225751,2086460,VCV002086460,0,Intron
+334,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225751,1964131,VCV001964131,0,Intron
+335,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225752,754508,VCV000754508,0,Intron
+336,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225753,2811518,VCV002811518,0,Intron
+337,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225753,633253,VCV000633253,0,Intron
+338,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225754,1544426,VCV001544426,0,Intron
+339,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225754,811029,VCV000811029,0,Intron
+340,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225754,632850,VCV000632850,0,Intron
+341,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225755,1623587,VCV001623587,0,Intron
+343,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225757,1089508,VCV001089508,0,Intron
+344,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5225759,2875907,VCV002875907,0,Intron
+346,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5225763,36318,VCV000036318,0,Intron
+347,HBB|LOC107133510|LOC110006319,Deletion,G: Benign,intron variant,11:5225764,2700062,VCV002700062,0,Intron
+348,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225765,1962865,VCV001962865,0,Intron
+349,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225766,1632385,VCV001632385,0,Intron
+350,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5225768,1091467,VCV001091467,0,Intron
+351,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225768,766099,VCV000766099,0,Intron
+352,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225769,1588617,VCV001588617,0,Intron
+354,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225770,1651061,VCV001651061,0,Intron
+355,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5225771,495995,VCV000495995,0,Intron
+356,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225772,1673496,VCV001673496,0,Intron
+358,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5225774,2107602,VCV002107602,0,Intron
+359,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225775,2107603,VCV002107603,0,Intron
+360,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225775,1617068,VCV001617068,0,Intron
+361,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225776,2815819,VCV002815819,0,Intron
+362,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225777,2877828,VCV002877828,0,Intron
+363,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225779,1623512,VCV001623512,0,Intron
+364,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225782,1627864,VCV001627864,0,Intron
+365,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225783,1564030,VCV001564030,0,Intron
+366,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225786,2837304,VCV002837304,0,Intron
+368,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225788,1154161,VCV001154161,0,Intron
+369,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225791,2017243,VCV002017243,0,Intron
+370,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225792,1648977,VCV001648977,0,Intron
+371,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225792,1139577,VCV001139577,0,Intron
+372,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225793,1099874,VCV001099874,0,Intron
+373,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225794,1157947,VCV001157947,0,Intron
+374,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5225796,36320,VCV000036320,0,Intron
+375,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225797,793174,VCV000793174,0,Intron
+376,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225798,2803917,VCV002803917,0,Intron
+377,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225803,1529709,VCV001529709,0,Intron
+378,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225803,1157085,VCV001157085,0,Intron
+379,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225804,2133999,VCV002133999,0,Intron
+381,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225806,1133882,VCV001133882,0,Intron
+382,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225807,1552193,VCV001552193,0,Intron
+383,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225807,929231,VCV000929231,0,Intron
+384,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225808,1537363,VCV001537363,0,Intron
+385,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5225808,439777,VCV000439777,0,Intron
+386,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225810,2090941,VCV002090941,0,Intron
+389,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225813,2702918,VCV002702918,0,Intron
+390,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225815,2097042,VCV002097042,0,Intron
+391,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225815,1661914,VCV001661914,0,Intron
+392,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225816,994010,VCV000994010,0,Intron
+394,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225821,1672645,VCV001672645,0,Intron
+395,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225821,797051,VCV000797051,0,Intron
+396,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225822,633255,VCV000633255,0,Intron
+398,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225823,3637486,VCV003637486,0,Intron
+400,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225825,2007540,VCV002007540,0,Intron
+401,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225825,1115280,VCV001115280,0,Intron
+402,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5225825,981076,VCV000981076,0,Intron
+404,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225828,2704522,VCV002704522,0,Intron
+405,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225828,633261,VCV000633261,0,Intron
+407,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225830,1089678,VCV001089678,0,Intron
+409,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225832,1584709,VCV001584709,0,Intron
+410,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,intron variant,11:5225832,15457,VCV000015457,1,Intron
+412,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225835,495987,VCV000495987,0,Intron
+413,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225837,1616943,VCV001616943,0,Intron
+414,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225838,1146323,VCV001146323,0,Intron
+416,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225840,632849,VCV000632849,0,Intron
+417,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225840,495988,VCV000495988,0,Intron
+418,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225843,2830420,VCV002830420,0,Intron
+420,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225844,2830691,VCV002830691,0,Intron
+421,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225845,2831713,VCV002831713,0,Intron
+422,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225845,2134390,VCV002134390,0,Intron
+423,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225846,796911,VCV000796911,0,Intron
+424,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225848,2830937,VCV002830937,0,Intron
+427,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225853,2802003,VCV002802003,0,Intron
+428,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225854,2862032,VCV002862032,0,Intron
+430,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225855,1095878,VCV001095878,0,Intron
+431,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225856,495990,VCV000495990,0,Intron
+432,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225857,2119846,VCV002119846,0,Intron
+433,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225858,1548194,VCV001548194,0,Intron
+435,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225862,3638340,VCV003638340,0,Intron
+436,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225864,801188,VCV000801188,0,Intron
+437,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225864,495991,VCV000495991,0,Intron
+439,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225868,2825157,VCV002825157,0,Intron
+440,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225869,1579049,VCV001579049,0,Intron
+441,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225870,2832734,VCV002832734,0,Intron
+442,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225871,2035477,VCV002035477,0,Intron
+443,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225871,1080748,VCV001080748,0,Intron
+444,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225871,632848,VCV000632848,0,Intron
+445,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225872,256346,VCV000256346,0,Intron
+446,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,intron variant,11:5225872,36312,VCV000036312,1,Intron
+447,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225873,4535916,VCV004535916,0,Intron
+448,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225873,1154176,VCV001154176,0,Intron
+449,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225873,792476,VCV000792476,0,Intron
+451,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225875,2704864,VCV002704864,0,Intron
+452,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225875,1996000,VCV001996000,0,Intron
+453,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225876,793229,VCV000793229,0,Intron
+454,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225876,36314,VCV000036314,0,Intron
+455,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225877,3910009,VCV003910009,0,Intron
+456,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225878,793230,VCV000793230,0,Intron
+457,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225879,1121198,VCV001121198,0,Intron
+458,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225880,1661185,VCV001661185,0,Intron
+459,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225880,1553442,VCV001553442,0,Intron
+460,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225881,2824341,VCV002824341,0,Intron
+463,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225885,1087637,VCV001087637,0,Intron
+464,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225888,1611236,VCV001611236,0,Intron
+465,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225892,2008558,VCV002008558,0,Intron
+467,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225896,2767052,VCV002767052,0,Intron
+469,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225898,1537687,VCV001537687,0,Intron
+470,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225899,2010842,VCV002010842,0,Intron
+471,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225902,2706270,VCV002706270,0,Intron
+472,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225902,1584803,VCV001584803,0,Intron
+473,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225903,797803,VCV000797803,0,Intron
+475,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225904,2009601,VCV002009601,0,Intron
+477,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225905,1605684,VCV001605684,0,Intron
+479,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225906,3638132,VCV003638132,0,Intron
+480,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225908,2775957,VCV002775957,0,Intron
+481,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225910,36315,VCV000036315,0,Intron
+484,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225911,2032327,VCV002032327,0,Intron
+485,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5225911,36316,VCV000036316,0,Intron
+486,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225914,751267,VCV000751267,0,Intron
+488,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225917,2877740,VCV002877740,0,Intron
+489,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225917,2740244,VCV002740244,0,Intron
+491,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225919,3639424,VCV003639424,0,Intron
+492,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225919,1563014,VCV001563014,0,Intron
+494,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,intron variant,11:5225923,15458,VCV000015458,1,Intron
+495,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225924,1147067,VCV001147067,0,Intron
+496,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225924,981074,VCV000981074,0,Intron
+497,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225925,2705593,VCV002705593,0,Intron
+498,HBB|LOC107133510|LOC110006319,Deletion,G: Pathogenic,intron variant,11:5225928,869236,VCV000869236,1,Intron
+499,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225930,1139383,VCV001139383,0,Intron
+500,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225934,869237,VCV000869237,0,Intron
+501,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225935,1658438,VCV001658438,0,Intron
+503,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225938,1573923,VCV001573923,0,Intron
+504,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225939,2742787,VCV002742787,0,Intron
+505,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225941,1606259,VCV001606259,0,Intron
+506,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225942,2131064,VCV002131064,0,Intron
+507,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225942,1535667,VCV001535667,0,Intron
+508,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225943,798416,VCV000798416,0,Intron
+509,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5225944,1083998,VCV001083998,0,Intron
+510,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225945,1536330,VCV001536330,0,Intron
+511,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225946,1556960,VCV001556960,0,Intron
+512,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225948,2754240,VCV002754240,0,Intron
+513,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225949,1141382,VCV001141382,0,Intron
+514,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225950,1152502,VCV001152502,0,Intron
+515,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225952,1571451,VCV001571451,0,Intron
+516,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225955,1112986,VCV001112986,0,Intron
+517,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225961,2025778,VCV002025778,0,Intron
+518,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5225964,256347,VCV000256347,0,Intron
+519,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225965,1140992,VCV001140992,0,Intron
+520,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225970,1091288,VCV001091288,0,Intron
+521,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225971,1965309,VCV001965309,0,Intron
+522,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225971,1625041,VCV001625041,0,Intron
+523,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225972,793871,VCV000793871,0,Intron
+524,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225974,2833520,VCV002833520,0,Intron
+525,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225975,1153305,VCV001153305,0,Intron
+526,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225978,1662306,VCV001662306,0,Intron
+527,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225980,2016469,VCV002016469,0,Intron
+528,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225982,1667603,VCV001667603,0,Intron
+529,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225984,1136434,VCV001136434,0,Intron
+530,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5225985,3019267,VCV003019267,0,Intron
+531,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225986,1968570,VCV001968570,0,Intron
+532,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225986,1630450,VCV001630450,0,Intron
+533,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225987,1095434,VCV001095434,0,Intron
+534,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225988,1542738,VCV001542738,0,Intron
+535,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225990,2107209,VCV002107209,0,Intron
+536,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5225991,1095205,VCV001095205,0,Intron
+537,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225995,2744953,VCV002744953,0,Intron
+538,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225996,2087515,VCV002087515,0,Intron
+539,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225998,869238,VCV000869238,0,Intron
+540,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225998,795281,VCV000795281,0,Intron
+541,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5225999,1579014,VCV001579014,0,Intron
+544,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226004,1155055,VCV001155055,0,Intron
+545,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226005,4692970,VCV004692970,0,Intron
+546,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226007,1565147,VCV001565147,0,Intron
+547,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226008,1128010,VCV001128010,0,Intron
+548,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226010,2862258,VCV002862258,0,Intron
+549,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226010,1572170,VCV001572170,0,Intron
+550,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226012,2033805,VCV002033805,0,Intron
+551,HBB|LOC107133510|LOC110006319,Insertion,G: Likely benign,intron variant,11:5226015,1130606,VCV001130606,0,Intron
+552,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226016,1148975,VCV001148975,0,Intron
+553,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226017,2017700,VCV002017700,0,Intron
+554,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226018,763410,VCV000763410,0,Intron
+555,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226021,764715,VCV000764715,0,Intron
+556,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226024,1609604,VCV001609604,0,Intron
+558,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226030,1126664,VCV001126664,0,Intron
+559,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226034,2852384,VCV002852384,0,Intron
+560,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226034,2131711,VCV002131711,0,Intron
+561,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226035,2702236,VCV002702236,0,Intron
+563,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226041,1090894,VCV001090894,0,Intron
+564,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226049,755510,VCV000755510,0,Intron
+565,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226050,2002515,VCV002002515,0,Intron
+566,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226051,1135885,VCV001135885,0,Intron
+567,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226054,2026386,VCV002026386,0,Intron
+568,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226054,2025792,VCV002025792,0,Intron
+570,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226058,1134251,VCV001134251,0,Intron
+571,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226061,2747568,VCV002747568,0,Intron
+572,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226061,1126324,VCV001126324,0,Intron
+574,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226063,1092862,VCV001092862,0,Intron
+575,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226065,1143473,VCV001143473,0,Intron
+576,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226067,796407,VCV000796407,0,Intron
+577,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226070,1991864,VCV001991864,0,Intron
+578,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226071,2026415,VCV002026415,0,Intron
+579,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226072,2813160,VCV002813160,0,Intron
+580,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226073,1156511,VCV001156511,0,Intron
+581,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226074,2755775,VCV002755775,0,Intron
+582,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226076,1660582,VCV001660582,0,Intron
+583,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226082,1089575,VCV001089575,0,Intron
+584,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226083,2876382,VCV002876382,0,Intron
+585,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226084,1143356,VCV001143356,0,Intron
+586,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226085,1159671,VCV001159671,0,Intron
+587,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226086,2107655,VCV002107655,0,Intron
+588,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226087,2802367,VCV002802367,0,Intron
+589,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226087,1077506,VCV001077506,0,Intron
+590,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226088,1116346,VCV001116346,0,Intron
+591,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226089,1160210,VCV001160210,0,Intron
+592,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226091,2789363,VCV002789363,0,Intron
+593,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226092,1559725,VCV001559725,0,Intron
+594,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226094,766475,VCV000766475,0,Intron
+595,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226095,830005,VCV000830005,0,Intron
+596,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226096,2005596,VCV002005596,0,Intron
+597,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226096,1090479,VCV001090479,0,Intron
+598,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226098,3693356,VCV003693356,0,Intron
+599,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226099,695343,VCV000695343,0,Intron
+600,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226102,2698601,VCV002698601,0,Intron
+601,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226102,2023608,VCV002023608,0,Intron
+602,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226104,1153781,VCV001153781,0,Intron
+603,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226105,1132923,VCV001132923,0,Intron
+604,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226107,774507,VCV000774507,0,Intron
+605,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226109,1105735,VCV001105735,0,Intron
+606,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226112,2035022,VCV002035022,0,Intron
+607,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226112,1117654,VCV001117654,0,Intron
+608,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226113,1134790,VCV001134790,0,Intron
+609,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226113,1100205,VCV001100205,0,Intron
+610,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226115,2818393,VCV002818393,0,Intron
+611,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226115,1094558,VCV001094558,0,Intron
+612,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226116,2760823,VCV002760823,0,Intron
+613,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226118,2826978,VCV002826978,0,Intron
+614,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226119,2121900,VCV002121900,0,Intron
+615,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226120,2823108,VCV002823108,0,Intron
+616,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226120,1667490,VCV001667490,0,Intron
+617,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226123,1118139,VCV001118139,0,Intron
+618,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226126,1137193,VCV001137193,0,Intron
+619,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226126,1095187,VCV001095187,0,Intron
+621,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226130,1629054,VCV001629054,0,Intron
+622,LOC110006319|HBB|LOC107133510,Deletion,G: Likely benign,intron variant,11:5226131,2739204,VCV002739204,0,Intron
+623,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226131,1084273,VCV001084273,0,Intron
+624,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226131,1077226,VCV001077226,0,Intron
+625,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226133,1149802,VCV001149802,0,Intron
+626,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226136,1553467,VCV001553467,0,Intron
+627,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226137,2757119,VCV002757119,0,Intron
+628,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226137,1145451,VCV001145451,0,Intron
+629,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226138,2955337,VCV002955337,0,Intron
+630,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226141,1157996,VCV001157996,0,Intron
+631,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226143,2697598,VCV002697598,0,Intron
+632,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226143,1131950,VCV001131950,0,Intron
+633,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226144,1104842,VCV001104842,0,Intron
+634,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226146,4734723,VCV004734723,0,Intron
+635,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226151,3624952,VCV003624952,0,Intron
+636,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226152,751959,VCV000751959,0,Intron
+637,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226154,2091561,VCV002091561,0,Intron
+638,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226156,798809,VCV000798809,0,Intron
+639,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226159,1997862,VCV001997862,0,Intron
+640,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226160,1621425,VCV001621425,0,Intron
+641,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226162,2812292,VCV002812292,0,Intron
+642,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226163,1124758,VCV001124758,0,Intron
+644,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226165,1602982,VCV001602982,0,Intron
+645,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226166,2862763,VCV002862763,0,Intron
+646,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226167,1157001,VCV001157001,0,Intron
+647,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226168,2817876,VCV002817876,0,Intron
+648,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226169,702712,VCV000702712,0,Intron
+649,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226170,3672948,VCV003672948,0,Intron
+650,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226171,2876055,VCV002876055,0,Intron
+651,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226171,2778374,VCV002778374,0,Intron
+652,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226172,1614562,VCV001614562,0,Intron
+653,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226173,1945194,VCV001945194,0,Intron
+654,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226175,1569465,VCV001569465,0,Intron
+655,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226177,1612179,VCV001612179,0,Intron
+656,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226181,4695393,VCV004695393,0,Intron
+657,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226181,1119111,VCV001119111,0,Intron
+658,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226182,1101748,VCV001101748,0,Intron
+659,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226182,1081408,VCV001081408,0,Intron
+660,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226183,1111753,VCV001111753,0,Intron
+661,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226185,2828044,VCV002828044,0,Intron
+662,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226186,1112903,VCV001112903,0,Intron
+663,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226187,1592636,VCV001592636,0,Intron
+664,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226187,1566948,VCV001566948,0,Intron
+665,LOC107133510|LOC110006319|HBB,Insertion,G: Likely benign,intron variant,11:5226188,1617500,VCV001617500,0,Intron
+666,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226190,1094586,VCV001094586,0,Intron
+668,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226193,1613967,VCV001613967,0,Intron
+669,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226197,695384,VCV000695384,0,Intron
+670,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226198,1561967,VCV001561967,0,Intron
+671,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226199,1561745,VCV001561745,0,Intron
+672,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226200,762977,VCV000762977,0,Intron
+673,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226202,2733487,VCV002733487,0,Intron
+674,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226202,2129208,VCV002129208,0,Intron
+675,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226205,2829859,VCV002829859,0,Intron
+676,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226206,2789491,VCV002789491,0,Intron
+677,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226207,3638091,VCV003638091,0,Intron
+678,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226208,2962205,VCV002962205,0,Intron
+679,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226209,1145767,VCV001145767,0,Intron
+680,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226211,2113784,VCV002113784,0,Intron
+681,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226213,1131314,VCV001131314,0,Intron
+682,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226215,798571,VCV000798571,0,Intron
+683,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226216,2959873,VCV002959873,0,Intron
+684,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226217,1588286,VCV001588286,0,Intron
+685,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226220,3668877,VCV003668877,0,Intron
+686,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226221,2845945,VCV002845945,0,Intron
+687,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226223,1107574,VCV001107574,0,Intron
+688,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226225,2105568,VCV002105568,0,Intron
+689,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226226,2782072,VCV002782072,0,Intron
+690,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226226,2126175,VCV002126175,0,Intron
+691,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226227,1634371,VCV001634371,0,Intron
+692,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226228,1088500,VCV001088500,0,Intron
+693,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226230,2811839,VCV002811839,0,Intron
+694,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226233,1659455,VCV001659455,0,Intron
+695,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226233,1625263,VCV001625263,0,Intron
+696,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226235,2103983,VCV002103983,0,Intron
+697,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226235,2048985,VCV002048985,0,Intron
+698,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226238,1138404,VCV001138404,0,Intron
+699,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226239,2731683,VCV002731683,0,Intron
+700,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226240,754485,VCV000754485,0,Intron
+701,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226242,1115039,VCV001115039,0,Intron
+702,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226242,765568,VCV000765568,0,Intron
+703,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226243,765167,VCV000765167,0,Intron
+704,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226244,2707027,VCV002707027,0,Intron
+705,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226245,794095,VCV000794095,0,Intron
+706,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226246,2124799,VCV002124799,0,Intron
+707,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226246,1090534,VCV001090534,0,Intron
+708,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226247,1978241,VCV001978241,0,Intron
+709,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226247,1636161,VCV001636161,0,Intron
+710,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226249,3633170,VCV003633170,0,Intron
+711,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226250,1145475,VCV001145475,0,Intron
+712,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226252,2829888,VCV002829888,0,Intron
+713,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226252,1120442,VCV001120442,0,Intron
+714,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226253,2851326,VCV002851326,0,Intron
+715,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226254,2819196,VCV002819196,0,Intron
+716,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226255,1996113,VCV001996113,0,Intron
+717,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226256,2019578,VCV002019578,0,Intron
+718,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226258,2036691,VCV002036691,0,Intron
+719,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226260,1110772,VCV001110772,0,Intron
+720,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226260,1108644,VCV001108644,0,Intron
+722,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226261,2116902,VCV002116902,0,Intron
+723,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226261,1140225,VCV001140225,0,Intron
+724,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226262,2103997,VCV002103997,0,Intron
+726,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226263,1560083,VCV001560083,0,Intron
+727,HBB|LOC107133510|LOC110006319,Indel,G: Likely benign,intron variant,11:5226265,4280318,VCV004280318,0,Intron
+728,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226265,1579555,VCV001579555,0,Intron
+729,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226265,1130103,VCV001130103,0,Intron
+730,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226267,1616150,VCV001616150,0,Intron
+731,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226267,1096696,VCV001096696,0,Intron
+732,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226268,2421180,VCV002421180,0,Intron
+733,HBB|LOC107133510|LOC110006319,Insertion,G: Likely benign,intron variant,11:5226268,2135317,VCV002135317,0,Intron
+735,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226269,1097250,VCV001097250,0,Intron
+736,LOC107133510|LOC110006319|HBB,Deletion,G: Likely benign,intron variant,11:5226269,763829,VCV000763829,0,Intron
+737,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226270,2008559,VCV002008559,0,Intron
+738,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226271,1081010,VCV001081010,0,Intron
+739,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226272,2133380,VCV002133380,0,Intron
+740,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226277,2016705,VCV002016705,0,Intron
+741,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226277,1110299,VCV001110299,0,Intron
+742,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226278,2027331,VCV002027331,0,Intron
+743,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226278,1972497,VCV001972497,0,Intron
+744,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226280,3638824,VCV003638824,0,Intron
+745,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226281,2846440,VCV002846440,0,Intron
+746,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226283,2848166,VCV002848166,0,Intron
+747,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226284,1662061,VCV001662061,0,Intron
+748,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226284,755422,VCV000755422,0,Intron
+749,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226285,1084859,VCV001084859,0,Intron
+750,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226287,1161484,VCV001161484,0,Intron
+751,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226288,4729396,VCV004729396,0,Intron
+752,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226289,2192067,VCV002192067,0,Intron
+753,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226290,1557489,VCV001557489,0,Intron
+754,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226290,1151871,VCV001151871,0,Intron
+755,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226292,1110042,VCV001110042,0,Intron
+756,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226293,2782584,VCV002782584,0,Intron
+758,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226294,1079811,VCV001079811,0,Intron
+759,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226300,1084243,VCV001084243,0,Intron
+760,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226304,2860247,VCV002860247,0,Intron
+761,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226304,2736437,VCV002736437,0,Intron
+762,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226305,797671,VCV000797671,0,Intron
+763,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226307,2806723,VCV002806723,0,Intron
+764,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226307,1084750,VCV001084750,0,Intron
+765,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226308,2807382,VCV002807382,0,Intron
+766,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226311,2124508,VCV002124508,0,Intron
+767,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226312,1110755,VCV001110755,0,Intron
+768,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226313,2824238,VCV002824238,0,Intron
+769,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226313,1662786,VCV001662786,0,Intron
+770,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226315,2847426,VCV002847426,0,Intron
+771,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226316,1138442,VCV001138442,0,Intron
+773,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226317,750903,VCV000750903,0,Intron
+774,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226319,1094628,VCV001094628,0,Intron
+775,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226320,2107558,VCV002107558,0,Intron
+776,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226321,2697109,VCV002697109,0,Intron
+777,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226322,869354,VCV000869354,0,Intron
+778,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226323,1115568,VCV001115568,0,Intron
+779,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226324,4766669,VCV004766669,0,Intron
+780,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226326,2856031,VCV002856031,0,Intron
+781,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226329,2062347,VCV002062347,0,Intron
+782,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226331,1602775,VCV001602775,0,Intron
+783,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226331,1122528,VCV001122528,0,Intron
+784,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226331,1084304,VCV001084304,0,Intron
+785,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226332,2856346,VCV002856346,0,Intron
+786,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226333,1610083,VCV001610083,0,Intron
+787,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226334,2709663,VCV002709663,0,Intron
+788,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226336,4735712,VCV004735712,0,Intron
+789,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226338,2873169,VCV002873169,0,Intron
+790,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226339,2765807,VCV002765807,0,Intron
+791,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226340,2107559,VCV002107559,0,Intron
+792,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226340,1157380,VCV001157380,0,Intron
+793,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226342,1119536,VCV001119536,0,Intron
+794,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226343,1088912,VCV001088912,0,Intron
+795,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226344,1657398,VCV001657398,0,Intron
+796,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226345,1101564,VCV001101564,0,Intron
+797,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226346,1611650,VCV001611650,0,Intron
+798,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226347,2025654,VCV002025654,0,Intron
+800,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226348,1655708,VCV001655708,0,Intron
+801,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226351,2831007,VCV002831007,0,Intron
+802,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226352,1549965,VCV001549965,0,Intron
+803,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226355,2760286,VCV002760286,0,Intron
+804,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226356,2790355,VCV002790355,0,Intron
+805,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226356,763631,VCV000763631,0,Intron
+806,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226357,707768,VCV000707768,0,Intron
+807,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226358,2847814,VCV002847814,0,Intron
+808,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226358,1661917,VCV001661917,0,Intron
+809,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226360,2103994,VCV002103994,0,Intron
+810,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226363,2804976,VCV002804976,0,Intron
+811,LOC107133510|HBB|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226363,2127595,VCV002127595,0,Intron
+813,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226364,2159789,VCV002159789,0,Intron
+814,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226364,1584154,VCV001584154,0,Intron
+815,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226364,1148302,VCV001148302,0,Intron
+816,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226364,1097054,VCV001097054,0,Intron
+817,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226364,1080158,VCV001080158,0,Intron
+818,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226365,1099709,VCV001099709,0,Intron
+819,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226366,2036940,VCV002036940,0,Intron
+820,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226366,1146145,VCV001146145,0,Intron
+821,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226366,1089483,VCV001089483,0,Intron
+822,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226367,1586850,VCV001586850,0,Intron
+823,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226369,753521,VCV000753521,0,Intron
+824,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226370,2135493,VCV002135493,0,Intron
+825,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226370,793209,VCV000793209,0,Intron
+827,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226371,2845297,VCV002845297,0,Intron
+828,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226372,2099827,VCV002099827,0,Intron
+829,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226372,796030,VCV000796030,0,Intron
+830,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226373,2802497,VCV002802497,0,Intron
+831,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226373,2736477,VCV002736477,0,Intron
+832,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226374,3633051,VCV003633051,0,Intron
+833,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226374,763383,VCV000763383,0,Intron
+834,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226375,1124939,VCV001124939,0,Intron
+835,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226376,2763854,VCV002763854,0,Intron
+836,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226377,1663300,VCV001663300,0,Intron
+837,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226378,2045391,VCV002045391,0,Intron
+838,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226379,1618173,VCV001618173,0,Intron
+839,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226379,766084,VCV000766084,0,Intron
+840,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226382,1637547,VCV001637547,0,Intron
+841,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226382,1121394,VCV001121394,0,Intron
+842,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226386,2829137,VCV002829137,0,Intron
+843,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226388,751288,VCV000751288,0,Intron
+844,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226390,1562797,VCV001562797,0,Intron
+845,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226390,1119125,VCV001119125,0,Intron
+846,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226393,1094229,VCV001094229,0,Intron
+847,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226394,1537336,VCV001537336,0,Intron
+848,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226394,1127800,VCV001127800,0,Intron
+849,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226396,1665450,VCV001665450,0,Intron
+850,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226397,2014931,VCV002014931,0,Intron
+851,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5226397,695498,VCV000695498,0,Intron
+852,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226399,1565090,VCV001565090,0,Intron
+853,HBB|LOC110006319|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226401,1644289,VCV001644289,0,Intron
+854,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226402,766521,VCV000766521,0,Intron
+855,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226403,2821601,VCV002821601,0,Intron
+856,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226403,1139479,VCV001139479,0,Intron
+857,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226404,2798327,VCV002798327,0,Intron
+858,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226406,703455,VCV000703455,0,Intron
+859,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226407,2771547,VCV002771547,0,Intron
+860,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226408,2810430,VCV002810430,0,Intron
+861,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226408,1102136,VCV001102136,0,Intron
+862,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226409,2089612,VCV002089612,0,Intron
+863,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226410,2877762,VCV002877762,0,Intron
+864,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226411,2793504,VCV002793504,0,Intron
+865,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226411,1641954,VCV001641954,0,Intron
+866,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226412,1158961,VCV001158961,0,Intron
+867,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226413,2838569,VCV002838569,0,Intron
+868,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226413,2757925,VCV002757925,0,Intron
+869,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226413,2134337,VCV002134337,0,Intron
+870,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226414,2808336,VCV002808336,0,Intron
+871,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226417,1123082,VCV001123082,0,Intron
+872,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226419,1124975,VCV001124975,0,Intron
+873,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226420,2795099,VCV002795099,0,Intron
+874,LOC107133510|LOC110006319|HBB,Deletion,G: Likely benign,intron variant,11:5226420,1158508,VCV001158508,0,Intron
+875,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226421,797626,VCV000797626,0,Intron
+876,LOC107133510|HBB|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226425,1094269,VCV001094269,0,Intron
+877,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226428,1101596,VCV001101596,0,Intron
+878,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226429,1626697,VCV001626697,0,Intron
+879,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226433,2817790,VCV002817790,0,Intron
+880,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226434,1135734,VCV001135734,0,Intron
+881,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226434,1114903,VCV001114903,0,Intron
+882,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226434,1082749,VCV001082749,0,Intron
+883,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226435,797670,VCV000797670,0,Intron
+884,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226437,2816740,VCV002816740,0,Intron
+885,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226437,1113861,VCV001113861,0,Intron
+886,LOC107133510|HBB|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226438,1077721,VCV001077721,0,Intron
+887,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226438,766523,VCV000766523,0,Intron
+888,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226439,2790939,VCV002790939,0,Intron
+889,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226443,1580352,VCV001580352,0,Intron
+890,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226445,795422,VCV000795422,0,Intron
+891,LOC110006319|HBB|LOC107133510,Deletion,G: Likely benign,intron variant,11:5226448,2088016,VCV002088016,0,Intron
+892,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226448,1145460,VCV001145460,0,Intron
+893,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226449,2088018,VCV002088018,0,Intron
+894,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226450,1092961,VCV001092961,0,Intron
+895,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226452,1122537,VCV001122537,0,Intron
+897,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226452,800025,VCV000800025,0,Intron
+898,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226453,2829919,VCV002829919,0,Intron
+899,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226453,2021501,VCV002021501,0,Intron
+900,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226455,2767167,VCV002767167,0,Intron
+901,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226458,2022708,VCV002022708,0,Intron
+902,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226459,1660101,VCV001660101,0,Intron
+903,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226459,796185,VCV000796185,0,Intron
+904,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226460,1548840,VCV001548840,0,Intron
+905,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226461,1089337,VCV001089337,0,Intron
+906,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226462,1124760,VCV001124760,0,Intron
+907,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226463,1656658,VCV001656658,0,Intron
+908,HBB|LOC107133510|LOC110006319,Insertion,G: Likely benign,intron variant,11:5226465,2696164,VCV002696164,0,Intron
+909,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226467,2696165,VCV002696165,0,Intron
+910,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226467,1613548,VCV001613548,0,Intron
+911,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226468,2827665,VCV002827665,0,Intron
+912,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226468,1643392,VCV001643392,0,Intron
+913,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226468,706923,VCV000706923,0,Intron
+914,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226469,3910008,VCV003910008,0,Intron
+915,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226470,2808048,VCV002808048,0,Intron
+916,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226472,2875229,VCV002875229,0,Intron
+917,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226472,2713508,VCV002713508,0,Intron
+918,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226473,2769315,VCV002769315,0,Intron
+919,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226477,1126808,VCV001126808,0,Intron
+920,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226477,1111047,VCV001111047,0,Intron
+921,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226481,2842293,VCV002842293,0,Intron
+922,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226487,2845263,VCV002845263,0,Intron
+923,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226487,1118813,VCV001118813,0,Intron
+924,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226488,2787390,VCV002787390,0,Intron
+925,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226488,2098074,VCV002098074,0,Intron
+926,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226492,1097379,VCV001097379,0,Intron
+927,HBB|LOC107133510|LOC110006319,Deletion,G: Likely benign,intron variant,11:5226494,2852703,VCV002852703,0,Intron
+928,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226494,1997666,VCV001997666,0,Intron
+929,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226494,1546485,VCV001546485,0,Intron
+930,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226496,1111267,VCV001111267,0,Intron
+931,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226496,439774,VCV000439774,0,Intron
+932,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226497,795403,VCV000795403,0,Intron
+933,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226500,1144869,VCV001144869,0,Intron
+934,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226500,1111743,VCV001111743,0,Intron
+936,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226501,1127638,VCV001127638,0,Intron
+937,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226503,2818822,VCV002818822,0,Intron
+938,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226503,1130698,VCV001130698,0,Intron
+939,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226503,439775,VCV000439775,0,Intron
+940,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226504,1080073,VCV001080073,0,Intron
+942,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226506,3701912,VCV003701912,0,Intron
+943,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226506,1124649,VCV001124649,0,Intron
+944,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5226507,764666,VCV000764666,0,Intron
+945,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226508,1114525,VCV001114525,0,Intron
+946,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226512,1656642,VCV001656642,0,Intron
+947,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226514,2752305,VCV002752305,0,Intron
+948,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226514,1124970,VCV001124970,0,Intron
+949,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226517,2708823,VCV002708823,0,Intron
+950,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226519,1099906,VCV001099906,0,Intron
+951,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226520,4734636,VCV004734636,0,Intron
+952,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226521,1673338,VCV001673338,0,Intron
+953,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226522,1100138,VCV001100138,0,Intron
+954,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226523,1528012,VCV001528012,0,Intron
+955,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226524,1992292,VCV001992292,0,Intron
+956,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226527,2069088,VCV002069088,0,Intron
+957,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226529,1533572,VCV001533572,0,Intron
+958,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226529,1096888,VCV001096888,0,Intron
+959,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226530,1930030,VCV001930030,0,Intron
+960,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226530,1922054,VCV001922054,0,Intron
+961,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226532,2130510,VCV002130510,0,Intron
+962,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226532,1653217,VCV001653217,0,Intron
+963,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226533,2157541,VCV002157541,0,Intron
+964,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226536,1151547,VCV001151547,0,Intron
+965,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226539,2058295,VCV002058295,0,Intron
+966,LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226540,2704284,VCV002704284,0,Intron
+967,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226541,1576566,VCV001576566,0,Intron
+968,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226543,1550256,VCV001550256,0,Intron
+969,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226543,755397,VCV000755397,0,Intron
+970,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226549,1110073,VCV001110073,0,Intron
+971,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226551,1978912,VCV001978912,0,Intron
+972,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,intron variant,11:5226551,439776,VCV000439776,0,Intron
+973,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226553,1655157,VCV001655157,0,Intron
+974,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226554,2823430,VCV002823430,0,Intron
+975,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226555,1639168,VCV001639168,0,Intron
+976,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226557,1673500,VCV001673500,0,Intron
+977,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226558,2751019,VCV002751019,0,Intron
+978,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226559,2778654,VCV002778654,0,Intron
+979,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226561,1531668,VCV001531668,0,Intron
+980,LOC110006319|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226561,1129052,VCV001129052,0,Intron
+981,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Benign/Likely benign,intron variant,11:5226561,256345,VCV000256345,0,Intron
+983,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226562,763094,VCV000763094,0,Intron
+984,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226563,1649952,VCV001649952,0,Intron
+986,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226564,3642561,VCV003642561,0,Intron
+987,LOC110006319|HBB|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226565,1977229,VCV001977229,0,Intron
+988,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226566,1546580,VCV001546580,0,Intron
+990,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226567,1330543,VCV001330543,0,Intron
+992,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226568,1591892,VCV001591892,0,Intron
+993,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226568,929230,VCV000929230,0,Intron
+994,HBB|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226569,1960918,VCV001960918,0,Intron
+995,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,intron variant,11:5226570,1606913,VCV001606913,0,Intron
+998,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,intron variant,11:5226572,869356,VCV000869356,1,Intron
+999,HBB|LOC106099062|LOC107133510|LOC110006319,Deletion,G: Pathogenic,intron variant,11:5226572,15515,VCV000015515,1,Intron
+1002,HBB|LOC106099062|LOC107133510|LOC110006319,Insertion,G: Likely pathogenic,splice donor variant,11:5226575,3766488,VCV003766488,1,Protein-truncating / splice-disrupting
+1003,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226575,869355,VCV000869355,1,Protein-truncating / splice-disrupting
+1004,HBB|LOC106099062|LOC107133510|LOC110006319,Deletion,G: Pathogenic/Likely pathogenic,splice donor variant,11:5226575,633258,VCV000633258,1,Protein-truncating / splice-disrupting
+1005,LOC106099062|LOC107133510|LOC110006319|HBB,single nucleotide variant,G: Likely pathogenic,splice donor variant,11:5226575,439146,VCV000439146,1,Protein-truncating / splice-disrupting
+1007,HBB|LOC106099062|LOC107133510|LOC110006319,Deletion,G: Pathogenic,splice donor variant,11:5226576,869353,VCV000869353,1,Protein-truncating / splice-disrupting
+1008,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226576,619686,VCV000619686,1,Protein-truncating / splice-disrupting
+1009,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226576,189128,VCV000189128,1,Protein-truncating / splice-disrupting
+1010,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226576,15438,VCV000015438,1,Protein-truncating / splice-disrupting
+1016,LOC110006319|LOC107133510|LOC106099062|HBB,single nucleotide variant,G: Likely benign,missense variant,11:5226578,15351,VCV000015351,0,Missense / in-frame coding
+1017,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5226580,1585227,VCV001585227,0,Synonymous
+1024,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Benign,missense variant,11:5226584,15235,VCV000015235,0,Missense / in-frame coding
+1029,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5226586,1531458,VCV001531458,0,Synonymous
+1032,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226588,15332,VCV000015332,1,Missense / in-frame coding
+1034,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5226589,1152045,VCV001152045,0,Synonymous
+1035,HBB|LOC106099062|LOC107133510|LOC110006319,single nucleotide variant,G: Likely benign,synonymous variant,11:5226589,1140182,VCV001140182,0,Synonymous
+1036,LOC106099062|LOC110006319|LOC107133510|HBB,Indel,G: Pathogenic,inframe_indel,11:5226590,869351,VCV000869351,1,Missense / in-frame coding
+1040,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226592,1554915,VCV001554915,0,Synonymous
+1046,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226594,15397,VCV000015397,1,Missense / in-frame coding
+1055,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226597,15241,VCV000015241,1,Missense / in-frame coding
+1056,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226598,3766487,VCV003766487,1,Missense / in-frame coding
+1057,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226598,801186,VCV000801186,1,Missense / in-frame coding
+1061,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226599,15390,VCV000015390,1,Missense / in-frame coding
+1063,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226600,15607,VCV000015607,1,Missense / in-frame coding
+1065,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226602,4277917,VCV004277917,1,Missense / in-frame coding
+1068,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226603,1634543,VCV001634543,0,Synonymous
+1070,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226604,256344,VCV000256344,0,Synonymous
+1075,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226607,1983531,VCV001983531,0,Synonymous
+1081,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,synonymous variant,11:5226610,2771206,VCV002771206,0,Synonymous
+1083,LOC106099062|HBB|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226610,993073,VCV000993073,1,Protein-truncating / splice-disrupting
+1084,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,nonsense,11:5226611,4280311,VCV004280311,1,Protein-truncating / splice-disrupting
+1085,LOC106099062|LOC107133510|HBB,Insertion,G: Pathogenic,frameshift variant,11:5226612,827662,VCV000827662,1,Protein-truncating / splice-disrupting
+1087,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226613,2664746,VCV002664746,1,Missense / in-frame coding
+1088,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226613,1118308,VCV001118308,0,Synonymous
+1089,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226613,811500,VCV000811500,1,Missense / in-frame coding
+1090,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226613,15208,VCV000015208,1,Missense / in-frame coding
+1093,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226615,15494,VCV000015494,1,Missense / in-frame coding
+1094,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226615,15255,VCV000015255,1,Missense / in-frame coding
+1096,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226616,2577313,VCV002577313,0,Synonymous
+1097,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226616,2010262,VCV002010262,0,Synonymous
+1099,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226617,4818702,VCV004818702,1,Protein-truncating / splice-disrupting
+1100,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226617,15338,VCV000015338,1,Missense / in-frame coding
+1103,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226619,1127632,VCV001127632,0,Synonymous
+1104,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226619,15311,VCV000015311,1,Missense / in-frame coding
+1106,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226621,869308,VCV000869308,1,Protein-truncating / splice-disrupting
+1108,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226621,15504,VCV000015504,1,Protein-truncating / splice-disrupting
+1110,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226622,495984,VCV000495984,0,Synonymous
+1111,HBB|LOC107133510|LOC106099062,Deletion,G: Likely pathogenic,frameshift variant,11:5226623,1687315,VCV001687315,1,Protein-truncating / splice-disrupting
+1116,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226625,2860725,VCV002860725,0,Synonymous
+1118,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226625,869305,VCV000869305,1,Protein-truncating / splice-disrupting
+1119,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226626,869304,VCV000869304,1,Protein-truncating / splice-disrupting
+1120,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226626,15343,VCV000015343,1,Missense / in-frame coding
+1122,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226627,2828894,VCV002828894,0,Synonymous
+1123,LOC106099062|LOC107133510|HBB,Deletion,G: Pathogenic,nonsense,11:5226627,869275,VCV000869275,1,Protein-truncating / splice-disrupting
+1125,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226629,15493,VCV000015493,1,Missense / in-frame coding
+1128,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Benign/Likely benign,missense variant,11:5226630,15489,VCV000015489,0,Missense / in-frame coding
+1129,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226631,1129520,VCV001129520,0,Synonymous
+1131,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226632,869301,VCV000869301,1,Protein-truncating / splice-disrupting
+1136,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226634,1608998,VCV001608998,0,Synonymous
+1138,LOC106099062|HBB|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226635,15122,VCV000015122,1,Missense / in-frame coding
+1140,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226636,869274,VCV000869274,1,Protein-truncating / splice-disrupting
+1141,HBB|LOC107133510|LOC106099062,single nucleotide variant,G: Likely benign,synonymous variant,11:5226637,1157531,VCV001157531,0,Synonymous
+1145,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226639,439143,VCV000439143,1,Protein-truncating / splice-disrupting
+1147,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226640,2053821,VCV002053821,0,Synonymous
+1148,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226640,1095859,VCV001095859,0,Synonymous
+1151,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226641,36306,VCV000036306,1,Protein-truncating / splice-disrupting
+1155,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226643,1942494,VCV001942494,0,Synonymous
+1156,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226643,618675,VCV000618675,1,Missense / in-frame coding
+1160,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Pathogenic,missense variant,11:5226644,15193,VCV000015193,1,Missense / in-frame coding
+1163,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,synonymous variant,11:5226646,2086531,VCV002086531,0,Synonymous
+1165,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226646,36305,VCV000036305,0,Synonymous
+1168,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226648,869299,VCV000869299,1,Protein-truncating / splice-disrupting
+1175,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5226654,15371,VCV000015371,0,Missense / in-frame coding
+1177,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226655,2743033,VCV002743033,0,Synonymous
+1183,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226657,632846,VCV000632846,1,Protein-truncating / splice-disrupting
+1184,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226658,1551548,VCV001551548,0,Synonymous
+1185,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226658,1065151,VCV001065151,1,Protein-truncating / splice-disrupting
+1186,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5226659,4685642,VCV004685642,0,Missense / in-frame coding
+1188,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226660,869272,VCV000869272,1,Protein-truncating / splice-disrupting
+1191,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226662,869270,VCV000869270,1,Protein-truncating / splice-disrupting
+1192,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226662,15420,VCV000015420,1,Protein-truncating / splice-disrupting
+1201,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226666,495983,VCV000495983,1,Protein-truncating / splice-disrupting
+1202,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226667,1111710,VCV001111710,0,Synonymous
+1203,LOC106099062|LOC107133510|HBB,Insertion,G: Likely pathogenic,frameshift variant,11:5226667,993070,VCV000993070,1,Protein-truncating / splice-disrupting
+1209,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,frameshift variant,11:5226671,15560,VCV000015560,1,Protein-truncating / splice-disrupting
+1212,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,missense variant,11:5226672,4280310,VCV004280310,1,Missense / in-frame coding
+1215,LOC107133510|LOC106099062|HBB,Deletion,G: Pathogenic,frameshift variant,11:5226672,618160,VCV000618160,1,Protein-truncating / splice-disrupting
+1221,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226676,4819685,VCV004819685,1,Protein-truncating / splice-disrupting
+1222,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226676,869268,VCV000869268,1,Protein-truncating / splice-disrupting
+1226,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226679,2770110,VCV002770110,0,Synonymous
+1228,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226680,869265,VCV000869265,1,Protein-truncating / splice-disrupting
+1232,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226682,1529989,VCV001529989,0,Synonymous
+1233,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226682,869267,VCV000869267,1,Protein-truncating / splice-disrupting
+1235,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226683,869266,VCV000869266,1,Protein-truncating / splice-disrupting
+1239,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226685,3627289,VCV003627289,0,Synonymous
+1240,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226685,439141,VCV000439141,0,Synonymous
+1241,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226686,15271,VCV000015271,1,Missense / in-frame coding
+1243,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226687,15613,VCV000015613,1,Missense / in-frame coding
+1244,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226688,36303,VCV000036303,1,Protein-truncating / splice-disrupting
+1248,LOC107133510|HBB|LOC106099062,Deletion,G: Likely pathogenic,frameshift variant,11:5226690,4532968,VCV004532968,1,Protein-truncating / splice-disrupting
+1250,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226690,15536,VCV000015536,1,Missense / in-frame coding
+1252,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226691,36302,VCV000036302,1,Protein-truncating / splice-disrupting
+1253,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226692,15136,VCV000015136,1,Missense / in-frame coding
+1254,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226693,869229,VCV000869229,1,Protein-truncating / splice-disrupting
+1256,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226694,2808627,VCV002808627,0,Synonymous
+1260,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226696,1074874,VCV001074874,1,Protein-truncating / splice-disrupting
+1262,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226697,2854276,VCV002854276,0,Synonymous
+1263,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226697,1581167,VCV001581167,0,Synonymous
+1264,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226697,869228,VCV000869228,1,Protein-truncating / splice-disrupting
+1266,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226698,15429,VCV000015429,1,Protein-truncating / splice-disrupting
+1269,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226701,15400,VCV000015400,1,Missense / in-frame coding
+1271,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226702,694445,VCV000694445,1,Missense / in-frame coding
+1272,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226702,15256,VCV000015256,1,Missense / in-frame coding
+1273,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign,synonymous variant,11:5226703,3910010,VCV003910010,0,Synonymous
+1276,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226706,3645123,VCV003645123,0,Synonymous
+1281,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226708,15407,VCV000015407,1,Protein-truncating / splice-disrupting
+1288,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226712,439139,VCV000439139,0,Synonymous
+1290,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226713,869225,VCV000869225,1,Protein-truncating / splice-disrupting
+1292,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226714,869224,VCV000869224,1,Protein-truncating / splice-disrupting
+1294,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226715,869346,VCV000869346,1,Protein-truncating / splice-disrupting
+1296,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226716,632845,VCV000632845,1,Protein-truncating / splice-disrupting
+1298,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226718,439138,VCV000439138,0,Synonymous
+1302,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226721,2901561,VCV002901561,0,Synonymous
+1303,HBB|LOC106099062|LOC107133510,Insertion,G: Pathogenic,"nonsense, inframe_insertion",11:5226721,869222,VCV000869222,1,Protein-truncating / splice-disrupting
+1304,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226721,36300,VCV000036300,0,Synonymous
+1308,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5226723,15188,VCV000015188,0,Missense / in-frame coding
+1309,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,frameshift variant,11:5226724,590977,VCV000590977,1,Protein-truncating / splice-disrupting
+1310,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226725,4074263,VCV004074263,1,Protein-truncating / splice-disrupting
+1314,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226726,869348,VCV000869348,1,Protein-truncating / splice-disrupting
+1315,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226727,869347,VCV000869347,1,Protein-truncating / splice-disrupting
+1316,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226727,799058,VCV000799058,0,Synonymous
+1322,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226730,439137,VCV000439137,1,Protein-truncating / splice-disrupting
+1324,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226732,3599785,VCV003599785,1,Missense / in-frame coding
+1325,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226733,1143503,VCV001143503,0,Synonymous
+1326,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226734,869344,VCV000869344,1,Protein-truncating / splice-disrupting
+1333,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226736,1111255,VCV001111255,0,Synonymous
+1334,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226737,38659,VCV000038659,1,Protein-truncating / splice-disrupting
+1338,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226739,869343,VCV000869343,1,Protein-truncating / splice-disrupting
+1341,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226742,1153698,VCV001153698,0,Synonymous
+1342,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226742,1119234,VCV001119234,0,Synonymous
+1343,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226742,869342,VCV000869342,1,Protein-truncating / splice-disrupting
+1346,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226745,2821618,VCV002821618,0,Synonymous
+1347,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226745,555215,VCV000555215,1,Protein-truncating / splice-disrupting
+1349,LOC107133510|HBB|LOC106099062,Deletion,G: Pathogenic,frameshift variant,11:5226746,869341,VCV000869341,1,Protein-truncating / splice-disrupting
+1353,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226748,495978,VCV000495978,0,Synonymous
+1361,LOC107133510|LOC106099062|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226751,1147444,VCV001147444,0,Synonymous
+1362,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226751,495976,VCV000495976,0,Synonymous
+1368,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226754,869338,VCV000869338,1,Protein-truncating / splice-disrupting
+1369,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226755,15546,VCV000015546,1,Missense / in-frame coding
+1371,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226757,1770789,VCV001770789,0,Synonymous
+1372,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226757,15415,VCV000015415,1,Protein-truncating / splice-disrupting
+1380,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Pathogenic,nonsense,11:5226762,15406,VCV000015406,1,Protein-truncating / splice-disrupting
+1381,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign,missense variant,11:5226762,15203,VCV000015203,0,Missense / in-frame coding
+1382,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226763,869296,VCV000869296,1,Protein-truncating / splice-disrupting
+1383,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,synonymous variant,11:5226763,495974,VCV000495974,0,Synonymous
+1384,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226763,15417,VCV000015417,1,Protein-truncating / splice-disrupting
+1386,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226764,15190,VCV000015190,1,Missense / in-frame coding
+1387,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226765,4795169,VCV004795169,1,Missense / in-frame coding
+1389,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226765,15347,VCV000015347,1,Missense / in-frame coding
+1390,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226765,15251,VCV000015251,1,Missense / in-frame coding
+1392,LOC107133510|HBB|LOC106099062,Deletion,G: Pathogenic,frameshift variant,11:5226766,849512,VCV000849512,1,Protein-truncating / splice-disrupting
+1396,LOC106099062|LOC107133510|HBB,Deletion,G: Pathogenic,frameshift variant,11:5226769,869294,VCV000869294,1,Protein-truncating / splice-disrupting
+1402,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,nonsense,11:5226772,15427,VCV000015427,1,Protein-truncating / splice-disrupting
+1404,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226774,869292,VCV000869292,1,Protein-truncating / splice-disrupting
+1405,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226774,869264,VCV000869264,1,Protein-truncating / splice-disrupting
+1407,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226774,15551,VCV000015551,1,Protein-truncating / splice-disrupting
+1408,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226774,15402,VCV000015402,1,Protein-truncating / splice-disrupting
+1411,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226775,928759,VCV000928759,0,Synonymous
+1417,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,nonsense,11:5226778,2681976,VCV002681976,1,Protein-truncating / splice-disrupting
+1418,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226778,15405,VCV000015405,1,Protein-truncating / splice-disrupting
+1419,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226779,439782,VCV000439782,1,Protein-truncating / splice-disrupting
+1422,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226780,15431,VCV000015431,1,Protein-truncating / splice-disrupting
+1424,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226781,2088054,VCV002088054,0,Synonymous
+1426,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5226782,15424,VCV000015424,1,Protein-truncating / splice-disrupting
+1432,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226784,869263,VCV000869263,1,Protein-truncating / splice-disrupting
+1433,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226784,15408,VCV000015408,1,Protein-truncating / splice-disrupting
+1434,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226785,869262,VCV000869262,1,Missense / in-frame coding
+1436,HBB|LOC106099062|LOC107133510,Insertion,G: Pathogenic,frameshift variant,11:5226786,3781328,VCV003781328,1,Protein-truncating / splice-disrupting
+1440,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226789,15312,VCV000015312,1,Missense / in-frame coding
+1441,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226790,2026143,VCV002026143,0,Synonymous
+1442,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226790,1978635,VCV001978635,0,Synonymous
+1443,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,splice acceptor variant,11:5226791,2044665,VCV002044665,1,Protein-truncating / splice-disrupting
+1445,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226794,478852,VCV000478852,1,Missense / in-frame coding
+1446,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226794,15308,VCV000015308,1,Missense / in-frame coding
+1448,HBB|LOC106099062|LOC107133510,Indel,G: Likely pathogenic,splice acceptor variant,11:5226796,2024192,VCV002024192,1,Protein-truncating / splice-disrupting
+1449,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226796,1090577,VCV001090577,0,Synonymous
+1450,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,splice acceptor variant,11:5226796,632854,VCV000632854,1,Protein-truncating / splice-disrupting
+1454,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,splice acceptor variant,11:5226797,15442,VCV000015442,1,Protein-truncating / splice-disrupting
+1457,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226798,869323,VCV000869323,1,Protein-truncating / splice-disrupting
+1459,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226799,869321,VCV000869321,1,Missense / in-frame coding
+1461,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5226800,439166,VCV000439166,1,Protein-truncating / splice-disrupting
+1462,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5226800,15446,VCV000015446,1,Protein-truncating / splice-disrupting
+1463,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,splice acceptor variant,11:5226800,15441,VCV000015441,1,Protein-truncating / splice-disrupting
+1464,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5226801,439167,VCV000439167,1,Protein-truncating / splice-disrupting
+1465,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice acceptor variant,11:5226801,15562,VCV000015562,1,Protein-truncating / splice-disrupting
+1467,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,intron variant,11:5226802,36341,VCV000036341,1,Intron
+1468,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226804,2783192,VCV002783192,0,Intron
+1469,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226804,1649396,VCV001649396,0,Intron
+1470,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226805,496008,VCV000496008,0,Intron
+1471,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226806,1133359,VCV001133359,0,Intron
+1473,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226808,2812701,VCV002812701,0,Intron
+1474,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226810,4848053,VCV004848053,0,Intron
+1477,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,intron variant,11:5226814,550356,VCV000550356,1,Intron
+1478,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226814,256348,VCV000256348,0,Intron
+1479,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226815,1602123,VCV001602123,0,Intron
+1480,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226816,1077470,VCV001077470,0,Intron
+1481,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226817,1985586,VCV001985586,0,Intron
+1482,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226817,795005,VCV000795005,0,Intron
+1483,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226818,2762750,VCV002762750,0,Intron
+1484,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226818,1602124,VCV001602124,0,Intron
+1485,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,intron variant,11:5226820,15454,VCV000015454,1,Intron
+1486,HBB|LOC106099062|LOC107133510,Deletion,G: Likely benign,intron variant,11:5226822,1602125,VCV001602125,0,Intron
+1488,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226823,496009,VCV000496009,0,Intron
+1489,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226826,2825370,VCV002825370,0,Intron
+1490,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226826,1929948,VCV001929948,0,Intron
+1491,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226826,1123454,VCV001123454,0,Intron
+1492,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226827,2817359,VCV002817359,0,Intron
+1493,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226827,1602126,VCV001602126,0,Intron
+1495,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226829,1602127,VCV001602127,0,Intron
+1496,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226830,2030369,VCV002030369,0,Intron
+1497,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226831,1153073,VCV001153073,0,Intron
+1498,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226833,1670688,VCV001670688,0,Intron
+1499,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226833,1132627,VCV001132627,0,Intron
+1500,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226835,2816145,VCV002816145,0,Intron
+1502,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226838,2009669,VCV002009669,0,Intron
+1503,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226839,1127713,VCV001127713,0,Intron
+1504,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226839,796462,VCV000796462,0,Intron
+1505,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226840,2791980,VCV002791980,0,Intron
+1506,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226840,1556906,VCV001556906,0,Intron
+1507,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226842,4771045,VCV004771045,0,Intron
+1508,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226843,2098228,VCV002098228,0,Intron
+1509,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226845,1153807,VCV001153807,0,Intron
+1510,LOC107133510|LOC106099062|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226845,1126429,VCV001126429,0,Intron
+1511,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226854,2878634,VCV002878634,0,Intron
+1512,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226854,1673467,VCV001673467,0,Intron
+1513,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226855,1802686,VCV001802686,0,Intron
+1514,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226858,1542866,VCV001542866,0,Intron
+1515,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226860,2095288,VCV002095288,0,Intron
+1516,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226861,2811923,VCV002811923,0,Intron
+1517,HBB|LOC106099062|LOC107133510,Deletion,G: Likely benign,intron variant,11:5226863,2097478,VCV002097478,0,Intron
+1518,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226863,1557222,VCV001557222,0,Intron
+1519,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226865,2115831,VCV002115831,0,Intron
+1520,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226865,1975392,VCV001975392,0,Intron
+1521,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226866,2091277,VCV002091277,0,Intron
+1522,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226866,1673148,VCV001673148,0,Intron
+1523,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226868,1151774,VCV001151774,0,Intron
+1524,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226869,1160989,VCV001160989,0,Intron
+1525,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226869,1153690,VCV001153690,0,Intron
+1526,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226872,1661837,VCV001661837,0,Intron
+1527,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226873,1615668,VCV001615668,0,Intron
+1528,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226873,1537040,VCV001537040,0,Intron
+1529,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226873,1121778,VCV001121778,0,Intron
+1530,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226876,1669845,VCV001669845,0,Intron
+1531,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226877,1127650,VCV001127650,0,Intron
+1532,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226880,1129240,VCV001129240,0,Intron
+1533,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226881,1537117,VCV001537117,0,Intron
+1534,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226882,1123116,VCV001123116,0,Intron
+1535,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226882,1108115,VCV001108115,0,Intron
+1536,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign,intron variant,11:5226883,751477,VCV000751477,0,Intron
+1537,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226884,1532941,VCV001532941,0,Intron
+1538,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226885,1122216,VCV001122216,0,Intron
+1539,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226887,2727125,VCV002727125,0,Intron
+1540,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226889,1118833,VCV001118833,0,Intron
+1541,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226890,1662829,VCV001662829,0,Intron
+1542,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226890,1106731,VCV001106731,0,Intron
+1543,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226891,1131624,VCV001131624,0,Intron
+1544,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226893,1124679,VCV001124679,0,Intron
+1545,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226894,2045067,VCV002045067,0,Intron
+1546,HBB|LOC106099062|LOC107133510,Insertion,G: Likely benign,intron variant,11:5226894,1583747,VCV001583747,0,Intron
+1547,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226894,753822,VCV000753822,0,Intron
+1548,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,intron variant,11:5226895,1161504,VCV001161504,0,Intron
+1549,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226898,1997611,VCV001997611,0,Intron
+1550,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226902,1096096,VCV001096096,0,Intron
+1551,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,splice donor variant,11:5226903,15445,VCV000015445,1,Protein-truncating / splice-disrupting
+1552,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226904,1118834,VCV001118834,0,Intron
+1553,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226905,2877060,VCV002877060,0,Intron
+1555,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226906,1608900,VCV001608900,0,Intron
+1556,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226908,2052775,VCV002052775,0,Intron
+1557,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226908,2034867,VCV002034867,0,Intron
+1558,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226908,1124680,VCV001124680,0,Intron
+1559,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226909,2003523,VCV002003523,0,Intron
+1560,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226912,1142119,VCV001142119,0,Intron
+1561,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,intron variant,11:5226913,1161505,VCV001161505,0,Intron
+1564,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226915,1093303,VCV001093303,0,Intron
+1568,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226918,1153019,VCV001153019,0,Intron
+1569,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226920,2103192,VCV002103192,0,Intron
+1570,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226921,1132191,VCV001132191,0,Intron
+1572,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,intron variant,11:5226923,1159538,VCV001159538,0,Intron
+1574,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,intron variant,11:5226924,15450,VCV000015450,1,Intron
+1575,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,intron variant,11:5226925,15449,VCV000015449,1,Intron
+1576,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,intron variant,11:5226925,15448,VCV000015448,1,Intron
+1577,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,intron variant,11:5226925,15447,VCV000015447,1,Intron
+1580,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226928,619860,VCV000619860,1,Protein-truncating / splice-disrupting
+1581,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226928,38667,VCV000038667,1,Protein-truncating / splice-disrupting
+1582,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226928,36334,VCV000036334,1,Protein-truncating / splice-disrupting
+1583,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226929,869246,VCV000869246,1,Protein-truncating / splice-disrupting
+1584,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226929,15437,VCV000015437,1,Protein-truncating / splice-disrupting
+1585,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,splice donor variant,11:5226929,15436,VCV000015436,1,Protein-truncating / splice-disrupting
+1586,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226930,3766927,VCV003766927,1,Missense / in-frame coding
+1587,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,"frameshift variant, initiator_codon_variant",11:5226930,993192,VCV000993192,1,Protein-truncating / splice-disrupting
+1588,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226930,36337,VCV000036337,1,Missense / in-frame coding
+1589,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226930,15234,VCV000015234,1,Missense / in-frame coding
+1590,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226931,869244,VCV000869244,1,Protein-truncating / splice-disrupting
+1591,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226931,869243,VCV000869243,1,Missense / in-frame coding
+1592,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,synonymous variant,11:5226931,590773,VCV000590773,1,Synonymous
+1593,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,frameshift variant,11:5226932,4532970,VCV004532970,1,Protein-truncating / splice-disrupting
+1594,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226932,748718,VCV000748718,0,Synonymous
+1596,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226933,869241,VCV000869241,1,Protein-truncating / splice-disrupting
+1597,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226933,15252,VCV000015252,1,Missense / in-frame coding
+1599,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226935,1671411,VCV001671411,0,Synonymous
+1600,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226935,928760,VCV000928760,0,Synonymous
+1604,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226936,15183,VCV000015183,1,Missense / in-frame coding
+1607,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226937,869240,VCV000869240,1,Protein-truncating / splice-disrupting
+1609,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226938,2867760,VCV002867760,0,Synonymous
+1610,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Likely benign,synonymous variant,11:5226938,439781,VCV000439781,0,Synonymous
+1611,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,inframe_deletion,11:5226939,4818706,VCV004818706,1,Missense / in-frame coding
+1613,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226939,15386,VCV000015386,1,Missense / in-frame coding
+1615,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,missense variant,11:5226940,4071470,VCV004071470,1,Missense / in-frame coding
+1616,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226940,15239,VCV000015239,1,Missense / in-frame coding
+1617,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226941,599394,VCV000599394,1,Missense / in-frame coding
+1619,HBB|LOC106099062|LOC107133510,Insertion,G: Pathogenic,frameshift variant,11:5226942,15563,VCV000015563,1,Protein-truncating / splice-disrupting
+1620,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226942,15554,VCV000015554,1,Missense / in-frame coding
+1624,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226943,38650,VCV000038650,1,Protein-truncating / splice-disrupting
+1626,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226943,15161,VCV000015161,1,Missense / in-frame coding
+1627,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226944,1669251,VCV001669251,0,Synonymous
+1628,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226944,1635143,VCV001635143,0,Synonymous
+1631,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,synonymous variant,11:5226947,15459,VCV000015459,1,Synonymous
+1632,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,frameshift variant,11:5226948,869362,VCV000869362,1,Protein-truncating / splice-disrupting
+1633,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226948,869361,VCV000869361,1,Protein-truncating / splice-disrupting
+1634,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226948,869360,VCV000869360,1,Protein-truncating / splice-disrupting
+1640,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,inframe_deletion,11:5226949,15166,VCV000015166,1,Missense / in-frame coding
+1653,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226955,869359,VCV000869359,1,Protein-truncating / splice-disrupting
+1661,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5226958,15399,VCV000015399,0,Missense / in-frame coding
+1665,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5226961,15300,VCV000015300,1,Missense / in-frame coding
+1668,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226963,15258,VCV000015258,1,Missense / in-frame coding
+1673,HBB|LOC106099062|LOC107133510,Deletion,G: Likely pathogenic,nonsense,11:5226967,4818705,VCV004818705,1,Protein-truncating / splice-disrupting
+1675,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226968,1538061,VCV001538061,0,Synonymous
+1678,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5226970,15401,VCV000015401,1,Protein-truncating / splice-disrupting
+1681,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,synonymous variant,11:5226971,811787,VCV000811787,1,Synonymous
+1682,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226971,15414,VCV000015414,1,Protein-truncating / splice-disrupting
+1683,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226972,869357,VCV000869357,1,Protein-truncating / splice-disrupting
+1686,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Pathogenic,nonsense,11:5226974,38646,VCV000038646,1,Protein-truncating / splice-disrupting
+1687,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Pathogenic,nonsense,11:5226975,15403,VCV000015403,1,Protein-truncating / splice-disrupting
+1688,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226976,38647,VCV000038647,1,Protein-truncating / splice-disrupting
+1692,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226977,2035733,VCV002035733,0,Synonymous
+1694,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226977,869233,VCV000869233,1,Protein-truncating / splice-disrupting
+1695,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226977,440467,VCV000440467,0,Synonymous
+1696,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226978,869319,VCV000869319,1,Protein-truncating / splice-disrupting
+1699,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226979,4074264,VCV004074264,1,Protein-truncating / splice-disrupting
+1704,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226983,495999,VCV000495999,0,Synonymous
+1706,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226986,15423,VCV000015423,1,Protein-truncating / splice-disrupting
+1712,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226989,869281,VCV000869281,1,Protein-truncating / splice-disrupting
+1713,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5226989,439156,VCV000439156,0,Synonymous
+1715,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226990,869232,VCV000869232,1,Protein-truncating / splice-disrupting
+1723,HBB|LOC106099062|LOC107133510,Insertion,G: Pathogenic,frameshift variant,11:5226993,869350,VCV000869350,1,Protein-truncating / splice-disrupting
+1725,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign/Likely benign,missense variant,11:5226993,15316,VCV000015316,0,Missense / in-frame coding
+1726,HBB|LOC106099062|LOC107133510,Insertion,G: Pathogenic,frameshift variant,11:5226994,869307,VCV000869307,1,Protein-truncating / splice-disrupting
+1730,LOC107133510|HBB|LOC106099062,single nucleotide variant,G: Likely benign,synonymous variant,11:5226995,1568873,VCV001568873,0,Synonymous
+1734,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5226996,15413,VCV000015413,1,Protein-truncating / splice-disrupting
+1737,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5226997,15281,VCV000015281,1,Missense / in-frame coding
+1743,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5226999,15176,VCV000015176,0,Missense / in-frame coding
+1744,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5227000,869271,VCV000869271,1,Protein-truncating / splice-disrupting
+1746,LOC106099062|HBB|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5227001,3766686,VCV003766686,1,Protein-truncating / splice-disrupting
+1747,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227001,933190,VCV000933190,0,Synonymous
+1752,HBB|LOC106099062|LOC107133510,Indel,G: Likely pathogenic,missense variant,11:5227002,36301,VCV000036301,1,Missense / in-frame coding
+1753,LOC106099062|LOC107133510|HBB,Deletion,G: Pathogenic,frameshift variant,11:5227002,15418,VCV000015418,1,Protein-truncating / splice-disrupting
+1754,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,missense variant,11:5227002,15333,VCV000015333,1,Missense / in-frame coding
+1755,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5227002,15175,VCV000015175,0,Missense / in-frame coding
+1756,LOC106099062|LOC107133510|HBB,Deletion,G: Pathogenic,frameshift variant,11:5227003,3068889,VCV003068889,1,Protein-truncating / splice-disrupting
+1757,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,nonsense,11:5227003,2573434,VCV002573434,1,Protein-truncating / splice-disrupting
+1758,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,nonsense,11:5227003,869230,VCV000869230,1,Protein-truncating / splice-disrupting
+1759,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5227003,869226,VCV000869226,1,Protein-truncating / splice-disrupting
+1762,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,missense variant,11:5227003,15126,VCV000015126,1,Missense / in-frame coding
+1763,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227004,1620530,VCV001620530,0,Synonymous
+1764,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,frameshift variant,11:5227004,15422,VCV000015422,1,Protein-truncating / splice-disrupting
+1768,HBB|LOC107133510|LOC106099062,single nucleotide variant,G: Likely benign,missense variant,11:5227006,1331036,VCV001331036,0,Missense / in-frame coding
+1770,HBB|LOC106099062|LOC107133510,Indel,G: Pathogenic,nonsense,11:5227006,869239,VCV000869239,1,Protein-truncating / splice-disrupting
+1774,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227010,2573435,VCV002573435,0,Synonymous
+1776,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227010,794722,VCV000794722,0,Synonymous
+1779,HBB|LOC106099062|LOC107133510,Indel,G: Likely benign,synonymous variant,11:5227012,1155998,VCV001155998,0,Synonymous
+1782,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5227013,4525835,VCV004525835,0,Missense / in-frame coding
+1783,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign,synonymous variant,11:5227013,193106,VCV000193106,0,Synonymous
+1784,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,missense variant,11:5227013,15296,VCV000015296,0,Missense / in-frame coding
+1785,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic/Likely pathogenic,frameshift variant,11:5227014,869242,VCV000869242,1,Protein-truncating / splice-disrupting
+1790,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227016,1612817,VCV001612817,0,Synonymous
+1791,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely benign,synonymous variant,11:5227016,495994,VCV000495994,0,Synonymous
+1796,HBB|LOC106099062|LOC107133510,Deletion,G: Pathogenic,"frameshift variant, initiator_codon_variant",11:5227018,15508,VCV000015508,1,Protein-truncating / splice-disrupting
+1798,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Likely pathogenic,"missense variant, initiator_codon_variant",11:5227019,869316,VCV000869316,1,Missense / in-frame coding
+1799,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,"missense variant, initiator_codon_variant",11:5227019,869315,VCV000869315,1,Missense / in-frame coding
+1800,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,"missense variant, initiator_codon_variant",11:5227019,15519,VCV000015519,1,Missense / in-frame coding
+1801,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,"missense variant, initiator_codon_variant",11:5227020,495986,VCV000495986,1,Missense / in-frame coding
+1802,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,"missense variant, initiator_codon_variant",11:5227020,36310,VCV000036310,1,Missense / in-frame coding
+1803,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,"missense variant, initiator_codon_variant",11:5227020,15434,VCV000015434,1,Missense / in-frame coding
+1804,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic/Likely pathogenic,"missense variant, initiator_codon_variant",11:5227021,869231,VCV000869231,1,Missense / in-frame coding
+1805,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,"missense variant, initiator_codon_variant",11:5227021,439140,VCV000439140,1,Missense / in-frame coding
+1814,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,5 prime UTR variant,11:5227039,393704,VCV000393704,1,UTR
+1819,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Pathogenic,5 prime UTR variant,11:5227050,393702,VCV000393702,1,UTR
+1821,HBB|LOC106099062|LOC107133510,single nucleotide variant,G: Benign,5 prime UTR variant,11:5227056,869257,VCV000869257,0,UTR
+1825,LOC106099062|LOC107133510|HBB,single nucleotide variant,G: Pathogenic/Likely pathogenic,5 prime UTR variant,11:5227071,36292,VCV000036292,1,UTR
